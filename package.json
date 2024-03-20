@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "custom-card-helpers": "^1.8.0",
-    "lit": "^2.7.2",
+    "lit": "^2.8.0",
     "suncalc3": "link:suncalc3"
   },
   "resolutions": {
